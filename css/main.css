@@ -1,0 +1,15 @@
+a:active{
+    transform: translate(1px, 1px);
+    box-shadow: none;
+
+}
+
+a:hover{
+    color: gray;
+    font-size: 1rem;
+}
+
+a:active{
+    color: rgb(36, 36, 36);
+    font-size: 1rem;
+}
